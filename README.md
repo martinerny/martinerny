@@ -1,6 +1,6 @@
 # martinerny
  Programming
-I'm [Your Name], a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+I'm Martin, a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
 
 ## About Me
 
