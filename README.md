@@ -17,10 +17,9 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- ...
+- Web Development 
+- Programming
+- Networking
 
 ## Connect with Me
 
