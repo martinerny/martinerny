@@ -4,7 +4,7 @@ I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub pr
 ## About Me
 
 - 🌱 I'm currently learning about Networking & Programming.
-- 💼 I study at Polhemsskolan.
+- 💼 I study at Polhemsskolan in Gävle.
 - 📫 You can reach me at martinen06@icloud.com.
 
 ## My Projects
