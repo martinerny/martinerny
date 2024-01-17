@@ -11,7 +11,7 @@ I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub pr
 
 Here are some of the projects I've been working on:
 
-1. [My Website](https://github.com/Polhemsskolan-DATA/sidmallen-martinerny): Brief description.
+1. [My Website](https://github.com/Polhemsskolan-DATA/sidmallen-martinerny): My first website made using html, css and javascript.
 2. [Project 2](link-to-project-2): Brief description.
 3. [Project 3](link-to-project-3): Brief description.
 
