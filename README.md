@@ -3,7 +3,7 @@ I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub pr
 
 ## About Me
 
-- 🌱 I'm currently learning Networking & Programming.
+- 🌱 I'm currently learning about Networking & Programming.
 - 💼 I study at Polhemsskolan.
 - 📫 You can reach me at martinen06@icloud.com.
 
