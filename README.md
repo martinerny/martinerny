@@ -5,7 +5,7 @@ I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub pr
 
 - 🌱 I'm currently learning Networking & Programming.
 - 💼 I study at Polhemsskolan.
-- 📫 You can reach me at [Your Email] or [Your Website].
+- 📫 You can reach me at martin.eriksson_nyberg@skola.gavle.se.
 
 ## My Projects
 
