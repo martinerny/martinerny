@@ -4,7 +4,7 @@ I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub pr
 ## About Me
 
 - 🌱 I'm currently learning Networking & Programming.
-- 💼 I work at [Where you work].
+- 💼 I work at Polhemsskolan.
 - 📫 You can reach me at [Your Email] or [Your Website].
 
 ## My Projects
