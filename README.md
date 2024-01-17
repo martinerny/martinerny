@@ -5,13 +5,13 @@ I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub pr
 
 - 🌱 I'm currently learning Networking & Programming.
 - 💼 I study at Polhemsskolan.
-- 📫 You can reach me at martin.eriksson_nyberg@skola.gavle.se.
+- 📫 You can reach me at martinen06@icloud.com.
 
 ## My Projects
 
 Here are some of the projects I've been working on:
 
-1. [Project 1](link-to-project-1): Brief description.
+1. [Project 1]https://github.com/Polhemsskolan-DATA/sidmallen-martinerny: Brief description.
 2. [Project 2](link-to-project-2): Brief description.
 3. [Project 3](link-to-project-3): Brief description.
 
