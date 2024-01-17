@@ -1,10 +1,9 @@
 # martinerny
- Programming
-I'm Martin, a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning [What you're learning].
+- 🌱 I'm currently learning Networking & Programming.
 - 💼 I work at [Where you work].
 - 📫 You can reach me at [Your Email] or [Your Website].
 
