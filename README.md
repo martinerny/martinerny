@@ -1,11 +1,12 @@
 # martinerny
-I'm Martin, a student passionate about [Your Interests]. Welcome to my GitHub profile!
+Hello!
+I'm Martin, a Data student living in Sweden. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🌱 I'm currently learning about Networking & Programming.
 - 💼 I study at Polhemsskolan in Gävle.
-- 📫 You can reach me at martinen06@icloud.com.
+- 📫 You can reach me at martinen06@icloud.com
 
 ## My Projects
 
@@ -23,8 +24,7 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 
-- [LinkedIn](your-LinkedIn-profile-link)
-- [Twitter](your-Twitter-profile-link)
+- [LinkedIn](https://www.linkedin.com/in/martin-eriksson-nyberg-5178462a0/)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
