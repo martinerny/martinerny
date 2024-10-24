@@ -4,8 +4,8 @@ I'm Martin, a Data student living in Sweden. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning about Networking & Programming.
-- 💼 I study at Polhemsskolan in Gävle.
+- 🌱 I'm currently learning about Networking & Programming
+- 💼 I study Data at Polhemsskolan, Gävle
 - 📫 You can reach me at martinen06@icloud.com
 
 ## My Projects
