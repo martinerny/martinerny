@@ -13,7 +13,7 @@ I'm Martin – a tech enthusiast from Sweden.
 ## 🚀 My Projects
 
 1. [My Website](https://github.com/Polhemsskolan-DATA/sidmallen-martinerny): My first website made using HTML, CSS and JavaScript.
-2. [Project 2](link-to-project-2): Brief description.
+2. [Gymnasiearbete](https://github.com/martinerny/Gymnasiearbete): My final high school project, focused on web development.
 3. [Project 3](link-to-project-3): Brief description.
 <br>
 
