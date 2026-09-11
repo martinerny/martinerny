@@ -5,7 +5,11 @@ I'm Martin – a tech enthusiast from Sweden.
 ## 🧠 About Me
 
 📍 Based in **Gävle, Sweden**
+<br>
+
 🎓 I recently graduated from the **Data program** at **Polhemsskolan**, Gävle
+<br>
+
 🧠 I'm continuing to learn more about **Networking**, **Programming**, and **Web Development**
 <br>
 
