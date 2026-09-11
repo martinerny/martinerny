@@ -10,6 +10,7 @@ I'm Martin – a tech enthusiast from Sweden.
 <br>
 - 📫 You can reach me at:
 - Email: **martinen06@icloud.com**
+<br>
 - LinkedIn: **[Martin Eriksson Nyberg](https://www.linkedin.com/in/martin-eriksson-nyberg-5178462a0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7pEGxtS3TEGZMynnz7BDWQ%3D%3D)**
 <br>
 
