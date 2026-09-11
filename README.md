@@ -4,12 +4,12 @@ I'm Martin – a tech enthusiast from Sweden.
 
 ## 🧠 About Me
 
-- 📍 Based in **Gävle, Sweden**
-- 🎓 I recently graduated from the **Data program** at **Polhemsskolan**, Gävle
-- 🧠 I'm continuing to learn more about **Networking**, **Programming**, and **Web Development**
+📍 Based in **Gävle, Sweden**
+🎓 I recently graduated from the **Data program** at **Polhemsskolan**, Gävle
+🧠 I'm continuing to learn more about **Networking**, **Programming**, and **Web Development**
 <br>
 
-- 📫 You can reach me at:
+📫 You can reach me at:
 - Email: **martinen06@icloud.com**
 <br>
 
