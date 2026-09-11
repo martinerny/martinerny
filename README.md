@@ -8,6 +8,7 @@ I'm Martin – a tech enthusiast from Sweden.
 - 🎓 I recently graduated from the **Data program** at **Polhemsskolan**, Gävle
 - 🧠 I'm continuing to learn more about **Networking**, **Programming**, and **Web Development**
 <br>
+
 - 📫 You can reach me at:
 - Email: **martinen06@icloud.com**
 <br>
